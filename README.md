@@ -31,7 +31,21 @@ Hi, I am **Karthik Venkata Sai Reddy Kunduru**. I am an **MS Computer Science** 
 ### 🧠 I’m looking for help with
 - Architecture and code reviews, testing strategy, and maintainability feedback  
 - Open source contribution direction and picking high impact issues  
-- CI/CD improvements using Docker and GitHub Actions  
+- CI/CD improvements using Docker and GitHub Actions
+  ## Certifications
+
+I have completed certifications in backend development, databases, frontend development, cloud, and generative AI.
+
+- [View My Certifications](https://drive.google.com/file/d/1hyK3Fgelx9CLKcLdZ8A4C9IMQKOjQo8o/view?usp=sharing)
+
+### Highlights
+- Entity Framework Core
+- Securing the Backend Layers
+- Developing Web Pages using HTML5
+- Creating Responsive Web Pages using Bootstrap 5
+- Implementing Databases using Microsoft SQL Server
+- Azure Solutions Development for Beginners
+- Develop Generative AI Solutions with Azure OpenAI
 
 ### 🌱 I’m currently learning
 - Scalable API patterns, service boundaries, and better system design habits  
